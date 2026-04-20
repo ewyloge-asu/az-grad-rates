@@ -1,0 +1,17 @@
+cohort_year,n_graduated,n_cohort,grad_rate,source_file,level,impending_appeal,suppressed
+2019,68393,86355,79.2,20194YearGradRateFinal.xls,state,False,False
+2024,74239,94651,78.4,4Y-GradRate-Cohort2024.xlsx,state,False,False
+2025,78082,97554,80.0,4Y-GradRate-Cohort2025.xlsx,state,False,False
+2023,72415,93430,77.5,4Year_Grad_Rate_Cohort2023_publish[1] (1).xlsx,state,False,False
+2022,69623,90880,76.6,4Ygraduation_rate_cohort_2022_redacted.xlsx,state,False,False
+2010,60294,79992,75.38,Cohort 2010_4 Year Graduation Rate.xls,state,False,False
+2011,59445,76354,77.85,Cohort 2011_4 Year Graduation Rate.xls,state,False,False
+2012,59208,77247,76.65,Cohort 2012_4 Year Graduation Rate.xls,state,False,False
+2013,58370,77685,75.14,Cohort 2013_4 Year Graduation Rate.xls,state,False,False
+2014,59994,79189,75.76,Cohort 2014_4 Year Graduation Rate.xls,state,False,False
+2015,60299,77760,77.55,Cohort 2015_4 Year Graduation Rate.xls,state,False,False
+2016,64135,79986,80.18,Cohort 2016_4 Year Graduation Rate.xls,state,False,False
+2017,65533,83995,78.02,Cohort 2017_4 Year Graduation Rate.xls,state,False,False
+2018,67498,86137,78.36121527334363,Cohort 2018 Four Year_Redacted.xls,state,False,False
+2020,68681,87844,78.19,Cohort 2020 4 Year Graduation Rate Final.xlsx,state,False,False
+2021,67692,89404,75.71,Cohort 2021 4 Year Graduation Rate.xlsx,state,False,False
