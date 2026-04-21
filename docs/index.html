@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arizona Graduation Rates: District Comparison Tool</title>
+  <meta name="description" content="Compare 4-year high school graduation rates across Arizona school districts, cohorts 2010–2025.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,400..700,0..100&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>How Arizona's school districts compare on graduation</h1>
+      <p class="deck">Four-year graduation rates for every Arizona school district, cohorts 2010 through 2025. The statewide average shown by default; add districts to see how they stack up.</p>
+    </div>
+  </header>
+
+  <main class="tool">
+    <section class="controls">
+      <div class="control-group">
+        <label for="district-search" class="control-label">Add a district</label>
+        <div class="search-wrap">
+          <input
+            type="text"
+            id="district-search"
+            placeholder="Start typing a district name…"
+            autocomplete="off"
+            spellcheck="false"
+          >
+          <ul id="search-results" class="search-results" hidden></ul>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <div class="control-label">Showing</div>
+        <div id="chips" class="chips">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </section>
+
+    <section class="chart-section">
+      <div class="chart-wrap">
+        <canvas id="chart" aria-label="Line chart of graduation rates over time"></canvas>
+      </div>
+      <p class="chart-note">Suppressed values (small cohorts) appear as gaps in the line. Source: Arizona Department of Education, 4-Year Cohort Graduation Rate data, cohorts 2010–2025.</p>
+    </section>
+
+    <section class="table-section">
+      <div class="table-header">
+        <h2>Data table</h2>
+        <button id="download-csv" class="download-btn" type="button">Download CSV</button>
+      </div>
+      <div class="table-wrap">
+        <table id="data-table">
+          <!-- Populated by JS -->
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Data from the <a href="https://www.azed.gov/accountability-research/data/">Arizona Department of Education Accountability Research office</a>. Graduation rate is the percentage of students in a four-year cohort who earned a high school diploma by August 31 of their fourth year. Methodology and source files available in the <a href="https://github.com/ewyloge-asu/az-grad-rates">project repository</a>.</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
