@@ -63,8 +63,8 @@
           legend: { display: false },
           tooltip: {
             backgroundColor: '#1a1a1a',
-            titleFont: { family: "'Space Grotesk', sans-serif", size: 12, weight: '600' },
-            bodyFont: { family: "'Space Grotesk', sans-serif", size: 13 },
+            titleFont: { family: '-apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif', size: 12, weight: '600' },
+            bodyFont: { family: '-apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif', size: 13 },
             padding: 12,
             borderColor: '#1a1a1a',
             displayColors: true,
@@ -83,7 +83,7 @@
           x: {
             grid: { display: false, drawBorder: true, color: '#d8d4ca' },
             ticks: {
-              font: { family: "'Space Grotesk', sans-serif", size: 12 },
+              font: { family: '-apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif', size: 12 },
               color: '#4a4a4a',
               maxRotation: 0,
             },
@@ -94,7 +94,7 @@
             suggestedMax: 100,
             grid: { color: '#ece9e1', drawBorder: false },
             ticks: {
-              font: { family: "'Space Grotesk', sans-serif", size: 12 },
+              font: { family: '-apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif', size: 12 },
               color: '#4a4a4a',
               callback: (v) => v + '%',
             },

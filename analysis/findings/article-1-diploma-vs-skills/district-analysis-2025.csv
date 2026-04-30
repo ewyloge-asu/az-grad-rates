@@ -1,0 +1,114 @@
+lea_id,district_name,county,data_status,excluded_from_scatter,named_outlier,inverse_grad_strong,cohort_size_2025,all_grad_2025,all_ela_2025,all_math_2025,diploma_vs_skills_gap,white_grad_2025,white_cohort_2025,white_ela_2025,white_math_2025,hispanic_grad_2025,hispanic_cohort_2025,hispanic_ela_2025,hispanic_math_2025,native_grad_2025,native_cohort_2025,native_ela_2025,native_math_2025,black_grad_2025,asian_grad_2025,swd_grad_2025,white_hisp_grad_gap,white_hisp_ela_gap,white_hisp_math_gap
+4396,Kayenta Unified School District #27,Navajo County,complete,False,True,False,166.0,91.0,11.0,10.0,80.5,,,,,,,,,92.7,150.0,12.0,11.0,,,,,,
+4468,Bagdad Unified District,Yavapai County,complete,False,True,False,,96.2,24.0,14.0,77.2,,,34.0,18.0,92.9,,,,,,,,,,,,,
+4506,Antelope Union High School District,Yuma County,complete,False,True,False,,86.0,14.0,8.0,75.0,88.9,,36.0,21.0,84.6,,6.0,2.0,,,,,,,,4.300000000000011,30.0,19.0
+4169,Bisbee Unified District,Cochise County,complete,False,True,True,85.0,85.9,16.0,6.0,74.9,83.3,,50.0,25.0,88.6,,9.0,3.0,,,,,,,66.7,-5.299999999999997,41.0,22.0
+4454,Santa Cruz Valley Union High School District,Pinal County,complete,False,True,True,101.0,84.2,14.0,6.0,74.2,44.4,,18.0,9.0,88.9,,12.0,5.0,50.0,,25.0,,80.0,,75.0,-44.50000000000001,6.0,4.0
+4507,Yuma Union High School District,Yuma County,complete,False,True,True,2693.0,94.1,26.0,14.0,74.1,87.2,281.0,41.0,23.0,95.1,2314.0,24.0,13.0,80.0,,12.0,6.0,96.3,,93.3,-7.8999999999999915,17.0,10.0
+4458,Santa Cruz Valley Unified District,Santa Cruz County,complete,False,True,False,390.0,93.8,29.0,13.0,72.8,,,55.0,20.0,93.7,380.0,28.0,13.0,,,,,,,,,27.0,7.0
+4208,Globe Unified District,Gila County,complete,False,True,True,133.0,85.0,21.0,7.0,71.0,79.2,53.0,34.0,13.0,92.3,,17.0,4.0,86.1,,11.0,7.0,,75.0,88.9,-13.099999999999994,17.0,9.0
+4211,Miami Unified District,Gila County,complete,False,False,False,75.0,81.3,11.0,12.0,69.8,,23.0,17.0,26.0,,37.0,7.0,3.0,,,,,,,,,10.0,23.0
+4407,Sunnyside Unified District,Pima County,complete,False,True,True,1117.0,82.6,18.0,10.0,68.6,66.7,,25.0,23.0,84.9,985.0,19.0,10.0,80.0,,4.0,4.0,96.9,,73.0,-18.200000000000003,6.0,13.0
+4221,Fort Thomas Unified District,Graham County,complete,False,False,False,49.0,71.4,4.0,2.0,68.4,66.7,,,20.0,60.0,,,,73.2,41.0,4.0,,,,80.0,6.700000000000003,,
+4437,Florence Unified School District,Pinal County,complete,False,True,False,837.0,90.1,28.0,16.0,68.1,88.9,333.0,33.0,22.0,90.4,364.0,23.0,11.0,89.5,,25.0,22.0,93.2,,86.1,-1.5,10.0,11.0
+4210,San Carlos Unified District,Gila County,complete,False,False,False,110.0,72.7,8.0,2.0,67.7,,,,,,,,,77.2,101.0,8.0,2.0,,,62.5,,,
+4510,Parker Unified School District,La Paz County,complete,False,True,True,134.0,82.8,20.0,11.0,67.3,84.0,,42.0,18.0,94.6,,15.0,10.0,65.9,41.0,14.0,10.0,,,83.3,-10.599999999999994,27.0,8.0
+4288,Tolleson Union High School District,Maricopa County,complete,False,True,False,3460.0,89.6,25.0,20.0,67.1,90.4,188.0,44.0,39.0,89.9,2626.0,24.0,19.0,78.4,51.0,22.0,23.0,88.9,95.7,89.0,0.5,20.0,20.0
+4154,Window Rock Unified District,Apache County,complete,False,False,False,137.0,89.8,32.0,15.0,66.3,,,,,,,,,89.4,132.0,33.0,15.0,,,,,,
+4159,Red Mesa Unified District,Apache County,complete,False,False,False,49.0,75.5,16.0,3.0,66.0,,,,,,,,,75.5,49.0,14.0,3.0,,,80.0,,,
+4443,Apache Junction Unified District,Pinal County,complete,False,False,False,203.0,91.1,33.0,18.0,65.6,,89.0,44.0,23.0,,95.0,22.0,13.0,,,,,,,,,22.0,10.0
+4381,Colorado River Union High School District,Mohave County,complete,False,False,True,498.0,82.5,22.0,14.0,64.5,80.8,240.0,23.0,19.0,86.1,209.0,21.0,9.0,,,25.0,11.0,53.3,66.7,77.1,-5.299999999999997,2.0,10.0
+4488,Mingus Union High School District,Yavapai County,complete,False,False,False,325.0,85.5,22.0,21.0,64.0,88.6,158.0,36.0,34.0,87.3,134.0,9.0,10.0,90.0,,,,50.0,,84.6,1.2999999999999972,27.0,24.0
+4387,Winslow Unified District,Navajo County,complete,False,False,False,149.0,86.6,25.0,22.0,63.099999999999994,,16.0,45.0,44.0,,47.0,30.0,22.0,,67.0,18.0,17.0,,,,,15.0,22.0
+4442,Coolidge Unified District,Pinal County,complete,False,False,True,257.0,76.3,18.0,9.0,62.8,69.8,43.0,26.0,14.0,80.4,138.0,19.0,9.0,69.6,,5.0,,89.3,,75.0,-10.600000000000009,7.0,5.0
+4196,Page Unified School District #8 ,Coconino County,complete,False,False,False,210.0,82.4,27.0,13.0,62.400000000000006,88.9,,72.0,48.0,83.3,,33.0,10.0,81.6,158.0,17.0,7.0,,,94.1,5.6000000000000085,39.0,38.0
+4284,Buckeye Union High School District,Maricopa County,complete,False,False,False,1394.0,93.2,36.0,26.0,62.2,92.9,379.0,52.0,41.0,93.9,835.0,30.0,21.0,94.1,,15.0,8.0,87.9,,93.7,-1.0,22.0,20.0
+4441,Maricopa Unified School District,Pinal County,complete,False,False,False,841.0,86.4,30.0,19.0,61.900000000000006,90.5,221.0,48.0,32.0,85.9,368.0,24.0,16.0,77.3,,8.0,8.0,82.2,93.8,85.9,4.599999999999994,24.0,16.0
+4474,Chino Valley Unified District,Yavapai County,complete,False,False,False,191.0,88.5,34.0,20.0,61.5,87.6,113.0,40.0,27.0,,73.0,25.0,11.0,,,,,,,,,15.0,16.0
+4286,Phoenix Union High School District,Maricopa County,complete,False,False,True,6469.0,77.9,19.0,14.0,61.400000000000006,72.3,256.0,38.0,28.0,78.3,5106.0,18.0,13.0,65.6,128.0,14.0,13.0,75.2,78.0,69.8,-6.0,20.0,15.0
+4453,Casa Grande Union High School District,Pinal County,complete,False,False,True,963.0,83.2,26.0,19.0,60.7,80.5,169.0,39.0,32.0,87.8,614.0,23.0,16.0,67.4,43.0,4.0,11.0,79.3,71.4,78.6,-7.299999999999997,16.0,16.0
+4289,Agua Fria Union High School District,Maricopa County,complete,False,False,False,2594.0,93.9,41.0,26.0,60.400000000000006,93.7,774.0,54.0,36.0,95.0,1285.0,33.0,20.0,94.7,,33.0,14.0,93.4,92.9,93.8,-1.2999999999999972,21.0,16.0
+4158,Chinle Unified District,Apache County,complete,False,False,False,194.0,79.9,22.0,18.0,59.900000000000006,,,,,,,,,81.3,,22.0,18.0,,,,,,
+4412,Baboquivari Unified School District #40,Pima County,complete,False,False,False,67.0,64.2,2.0,7.0,59.7,,,,,66.7,,33.0,33.0,62.7,59.0,,6.0,,,66.7,,,
+4470,Camp Verde Unified District,Yavapai County,complete,False,False,False,112.0,86.6,31.0,26.0,58.099999999999994,88.1,,50.0,40.0,85.7,,8.0,7.0,75.0,,,,,,90.0,2.3999999999999915,42.0,33.0
+4197,Tuba City Unified School District #15,Coconino County,complete,False,False,False,170.0,73.5,14.0,17.0,58.0,,,,,,,,,76.4,157.0,13.0,16.0,,,41.2,,,
+4174,Douglas Unified District,Cochise County,complete,False,False,False,318.0,82.1,32.0,17.0,57.599999999999994,,,,,84.5,303.0,32.0,17.0,,,,,,,,,,
+4405,Flowing Wells Unified District,Pima County,complete,False,False,False,461.0,89.8,36.0,29.0,57.3,89.7,,51.0,48.0,90.9,329.0,30.0,24.0,,,50.0,,91.7,83.3,86.8,-1.2000000000000028,21.0,24.0
+4155,Round Valley Unified District,Apache County,complete,False,False,False,123.0,90.2,38.0,28.0,57.2,85.9,,50.0,35.0,,,22.0,16.0,80.0,,,,,,72.7,,28.0,19.0
+4389,Holbrook Unified District,Navajo County,complete,False,False,False,167.0,77.2,25.0,15.0,57.2,,16.0,82.0,64.0,,30.0,39.0,17.0,80.5,113.0,11.0,6.0,,,,,43.0,47.0
+4467,Sedona-Oak Creek JUSD #9,Yavapai County,complete,False,False,False,,88.4,42.0,21.0,56.900000000000006,88.5,,62.0,41.0,88.5,,25.0,7.0,,,,,,,83.3,0.0,37.0,34.0
+4457,Nogales Unified District,Santa Cruz County,complete,False,False,False,533.0,84.4,36.0,20.0,56.400000000000006,,,,,85.0,525.0,35.0,19.0,,,,,,50.0,78.8,,,
+4404,Marana Unified District,Pima County,complete,False,False,False,1135.0,89.3,38.0,28.0,56.3,88.7,558.0,45.0,36.0,90.0,471.0,32.0,21.0,90.0,,37.0,11.0,88.0,95.0,82.4,-1.2999999999999972,13.0,15.0
+4411,Sahuarita Unified District,Pima County,complete,False,False,False,632.0,91.1,40.0,30.0,56.099999999999994,91.0,200.0,51.0,42.0,92.0,375.0,36.0,24.0,,,12.0,12.0,92.9,,79.6,-1.0,15.0,18.0
+4397,Blue Ridge Unified School District No. 32,Navajo County,complete,False,False,False,173.0,87.3,35.0,28.0,55.8,86.6,82.0,49.0,45.0,,40.0,21.0,12.0,,41.0,22.0,13.0,,,,,28.0,33.0
+4175,Sierra Vista Unified District,Cochise County,complete,False,False,False,438.0,91.1,45.0,27.0,55.099999999999994,91.9,197.0,53.0,34.0,,165.0,40.0,21.0,,,,,,,,,13.0,13.0
+4218,Safford Unified District,Graham County,complete,False,False,True,266.0,78.6,27.0,20.0,55.099999999999994,71.3,108.0,30.0,31.0,85.3,143.0,24.0,13.0,80.0,,50.0,,,,68.6,-14.0,6.0,18.0
+4219,Thatcher Unified District,Graham County,complete,False,False,False,,95.7,45.0,37.0,54.7,98.0,,51.0,41.0,87.9,,20.0,26.0,,,,,,,89.5,10.099999999999994,31.0,15.0
+4252,Nadaburg Unified School District,Maricopa County,complete,False,False,False,92.0,84.8,39.0,22.0,54.3,84.1,,51.0,32.0,85.4,,34.0,14.0,,,,,50.0,,92.9,-1.3000000000000114,17.0,18.0
+4236,Wickenburg Unified District,Maricopa County,complete,False,False,True,125.0,83.2,31.0,28.0,53.7,77.9,68.0,40.0,42.0,90.0,,22.0,14.0,,,,,,,94.1,-12.099999999999994,18.0,28.0
+4403,Tucson Unified District,Pima County,complete,False,False,False,3414.0,82.7,35.0,23.0,53.7,84.2,608.0,56.0,40.0,81.4,2116.0,29.0,16.0,,110.0,16.0,10.0,84.6,85.9,77.0,2.799999999999997,27.0,24.0
+4237,Peoria Unified School District,Maricopa County,complete,False,False,False,3076.0,94.2,46.0,36.0,53.2,96.1,1469.0,55.0,46.0,93.0,1111.0,36.0,24.0,93.8,,27.0,27.0,86.5,94.8,92.5,3.0999999999999943,19.0,22.0
+4445,J O Combs Unified School District,Pinal County,complete,False,False,False,406.0,87.2,37.0,31.0,53.2,88.0,200.0,51.0,39.0,86.5,156.0,21.0,22.0,,,,,,80.0,85.4,1.5,30.0,17.0
+4235,Mesa Unified District,Maricopa County,complete,False,False,False,4547.0,85.1,37.0,27.0,53.099999999999994,89.9,1769.0,58.0,46.0,82.5,2147.0,23.0,14.0,75.6,176.0,18.0,13.0,77.1,95.2,81.0,7.400000000000006,35.0,32.0
+4243,Dysart Unified District,Maricopa County,complete,False,False,False,1904.0,94.6,46.0,37.0,53.099999999999994,96.9,741.0,58.0,47.0,93.6,825.0,37.0,29.0,85.7,,46.0,36.0,96.0,96.4,91.7,3.3000000000000114,21.0,18.0
+4393,Show Low Unified District ,Navajo County,complete,False,False,False,242.0,88.4,42.0,29.0,52.900000000000006,90.5,168.0,51.0,34.0,89.8,,22.0,16.0,80.0,,8.0,8.0,50.0,66.7,79.4,0.7000000000000028,29.0,18.0
+4192,Flagstaff Unified District,Coconino County,complete,False,False,False,881.0,84.7,41.0,23.0,52.7,88.6,341.0,63.0,37.0,80.5,262.0,34.0,15.0,86.0,222.0,16.0,8.0,57.1,,88.8,8.099999999999994,29.0,22.0
+4394,Whiteriver Unified District,Navajo County,complete,False,False,False,208.0,57.2,6.0,3.0,52.7,,,,,,,,,57.9,197.0,6.0,3.0,,,,,,
+4469,Humboldt Unified District,Yavapai County,complete,False,False,False,418.0,86.8,40.0,29.0,52.3,87.8,205.0,49.0,37.0,86.0,186.0,28.0,16.0,,,67.0,33.0,,,,1.7999999999999972,21.0,21.0
+4157,Ganado Unified School District,Apache County,complete,False,False,False,97.0,63.9,14.0,13.0,50.4,,,,,,,,,68.2,85.0,16.0,13.0,,,,,,
+4368,Lake Havasu Unified District,Mohave County,complete,False,False,False,532.0,84.8,42.0,28.0,49.8,84.8,349.0,44.0,31.0,84.2,146.0,35.0,15.0,,,20.0,20.0,75.0,81.8,80.8,0.5999999999999943,9.0,16.0
+4220,Pima Unified District,Graham County,complete,False,False,False,83.0,85.5,44.0,28.0,49.5,91.7,,46.0,34.0,66.7,,32.0,9.0,,,,,,,86.7,25.0,14.0,25.0
+79598,Kingman Unified School District,Mohave County,complete,False,False,False,632.0,71.4,28.0,16.0,49.400000000000006,73.2,392.0,31.0,20.0,71.8,163.0,21.0,10.0,71.4,,10.0,,50.0,,65.3,1.4000000000000057,10.0,10.0
+79226,Benson Unified School District,Cochise County,complete,False,False,False,130.0,90.8,49.0,36.0,48.3,89.6,,48.0,37.0,92.9,,46.0,32.0,,,,,,,92.3,-3.3000000000000114,2.0,5.0
+4285,Glendale Union High School District,Maricopa County,complete,False,False,False,3644.0,87.4,45.0,34.0,47.900000000000006,88.6,766.0,62.0,52.0,87.5,2237.0,39.0,29.0,83.3,78.0,33.0,27.0,86.0,92.6,71.8,1.0999999999999943,23.0,23.0
+4209,Payson Unified District,Gila County,complete,False,False,False,171.0,80.1,40.0,26.0,47.099999999999994,77.1,105.0,50.0,30.0,,48.0,19.0,17.0,,,20.0,20.0,,,,,31.0,13.0
+4245,Queen Creek Unified District,Maricopa County,complete,False,False,False,1044.0,94.6,55.0,47.0,43.599999999999994,95.1,634.0,59.0,51.0,94.5,271.0,48.0,41.0,,,50.0,20.0,88.9,96.3,90.5,0.5999999999999943,11.0,10.0
+4247,Fountain Hills Unified District,Maricopa County,complete,False,False,False,120.0,90.0,45.0,49.0,43.0,89.6,,51.0,58.0,86.7,,22.0,20.0,95.8,,18.0,18.0,,,83.3,2.8999999999999915,29.0,38.0
+4153,St Johns Unified District,Apache County,complete,False,False,False,81.0,84.0,39.0,44.0,42.5,85.2,,45.0,49.0,75.0,,33.0,28.0,85.7,,17.0,50.0,,,85.7,10.200000000000003,12.0,21.0
+4239,Gilbert Unified District,Maricopa County,complete,False,False,False,2931.0,92.1,53.0,47.0,42.099999999999994,93.8,1704.0,58.0,54.0,92.0,772.0,43.0,32.0,91.2,,31.0,17.0,87.5,96.1,83.2,1.7999999999999972,15.0,22.0
+4466,Prescott Unified District,Yavapai County,complete,False,False,False,427.0,84.1,51.0,37.0,40.099999999999994,86.6,298.0,56.0,43.0,73.9,88.0,35.0,26.0,83.3,,25.0,,,,70.0,12.699999999999989,21.0,17.0
+4287,Tempe Union High School District,Maricopa County,complete,False,False,False,2803.0,89.2,57.0,42.0,39.7,92.2,912.0,76.0,65.0,89.2,1158.0,45.0,29.0,77.3,97.0,29.0,22.0,84.4,93.5,80.3,3.0,31.0,36.0
+4246,Deer Valley Unified District,Maricopa County,complete,False,False,False,2640.0,96.0,63.0,51.0,39.0,97.2,1698.0,69.0,56.0,91.7,530.0,43.0,30.0,88.5,,25.0,25.0,95.5,,90.9,5.5,26.0,26.0
+4248,Higley Unified School District,Maricopa County,complete,False,False,False,1106.0,96.4,61.0,54.0,38.900000000000006,96.4,638.0,66.0,61.0,95.7,257.0,56.0,40.0,,,,,94.4,,91.5,0.7000000000000028,10.0,21.0
+4413,Vail Unified District,Pima County,complete,False,False,False,1254.0,93.1,60.0,49.0,38.599999999999994,93.6,597.0,66.0,57.0,93.2,482.0,50.0,38.0,,,75.0,50.0,87.9,,83.5,0.3999999999999915,16.0,19.0
+4406,Amphitheater Unified District,Pima County,complete,False,False,False,1166.0,85.5,52.0,43.0,38.0,89.1,548.0,68.0,58.0,84.2,449.0,39.0,30.0,81.8,,27.0,9.0,75.0,92.3,77.6,4.8999999999999915,29.0,28.0
+4241,Paradise Valley Unified District,Maricopa County,complete,False,False,False,2308.0,90.0,57.0,48.0,37.5,93.7,1222.0,69.0,60.0,84.8,703.0,34.0,25.0,78.9,,40.0,41.0,85.3,94.2,77.4,8.900000000000006,35.0,35.0
+4240,Scottsdale Unified District,Maricopa County,complete,False,False,False,1944.0,94.2,63.0,55.0,35.2,96.2,1165.0,74.0,63.0,91.1,447.0,36.0,32.0,95.6,,35.0,25.0,85.7,92.7,75.6,5.1000000000000085,38.0,31.0
+4391,Snowflake Unified District,Navajo County,complete,False,False,False,225.0,88.4,58.0,51.0,33.900000000000006,90.0,170.0,62.0,56.0,,32.0,26.0,21.0,,,45.0,22.0,,,,,36.0,35.0
+4244,Cave Creek Unified District,Maricopa County,complete,False,False,False,377.0,96.0,70.0,57.0,32.5,96.8,,71.0,59.0,92.9,,52.0,39.0,,,,50.0,,,90.0,3.8999999999999915,19.0,20.0
+4242,Chandler Unified District #80,Maricopa County,complete,False,False,False,4362.0,92.2,66.0,58.0,30.200000000000003,96.5,2027.0,74.0,66.0,90.8,1113.0,49.0,37.0,92.3,,30.0,23.0,92.7,97.4,90.6,5.700000000000003,25.0,29.0
+4410,Catalina Foothills Unified District,Pima County,complete,False,False,False,481.0,95.0,75.0,55.0,30.0,,252.0,81.0,59.0,,155.0,62.0,42.0,,,,,,,,,19.0,17.0
+4370,Colorado City Unified District,Mohave County,complete,False,False,False,34.0,67.6,54.0,50.0,15.599999999999994,65.6,32.0,57.0,52.0,,,,,,,,,,,,,,
+4156,Sanders Unified District,Apache County,suppressed_grad,True,False,False,57.0,,10.0,2.0,,,,,,,,,,,53.0,9.0,2.0,,,,,,
+4168,Tombstone Unified District,Cochise County,suppressed_grad,True,False,False,128.0,,46.0,34.0,,,60.0,48.0,35.0,,50.0,46.0,31.0,,,,,,,,,2.0,4.0
+4170,Willcox Unified District,Cochise County,suppressed_grad,True,False,False,96.0,,26.0,12.0,,,,34.0,18.0,,59.0,21.0,10.0,,,,,,,,,13.0,8.0
+4171,Bowie Unified District,Cochise County,suppressed_grad,True,False,False,,,,,,,,,,,,,,,,,,,,,,,
+4172,San Simon Unified District,Cochise County,suppressed_grad,True,False,False,,,,,,,,,,,,,,,,,,,,,,,
+4173,St David Unified District,Cochise County,suppressed_grad,True,False,False,32.0,,42.0,21.0,,,29.0,44.0,28.0,,,43.0,,,,,,,,,,1.0,
+4190,Valley Union High School District,Cochise County,suppressed_grad,True,False,False,16.0,,,,,,,,,,,,,,,,,,,,,,
+4193,Williams Unified District,Coconino County,suppressed_grad,True,False,False,56.0,,24.0,9.0,,,26.0,32.0,11.0,,26.0,16.0,8.0,,,,,,,,,16.0,3.0
+4194,Grand Canyon Unified District,Coconino County,suppressed_grad,True,False,False,15.0,,42.0,16.0,,,,75.0,50.0,,,33.0,11.0,,,20.0,,,,,,42.0,39.0
+4195,Fredonia-Moccasin Unified District,Coconino County,suppressed_grad,True,False,False,12.0,,30.0,20.0,,,,37.0,25.0,,,,,,,,,,,,,,
+4212,Hayden-Winkelman Unified District,Gila County,suppressed_grad,True,False,False,17.0,,25.0,30.0,,,,,,,14.0,28.0,34.0,,,,,,,,,,
+4217,Graham County Special Services,Graham County,suppressed_grad,True,False,False,,,,,,,,,,,,,,,,,,,,,,,
+4228,Duncan Unified District,Greenlee County,suppressed_grad,True,False,False,25.0,,22.0,18.0,,,21.0,25.0,25.0,,,14.0,,,,,,,,,,11.0,
+4230,Morenci Unified District,Greenlee County,suppressed_grad,True,False,False,85.0,,37.0,25.0,,,16.0,53.0,53.0,,55.0,39.0,18.0,,11.0,,29.0,,,,,14.0,35.0
+4231,Blue Elementary District,Greenlee County,suppressed_grad,True,False,False,,,,,,,,,,,,,,,,,,,,,,,
+4238,Gila Bend Unified District,Maricopa County,suppressed_grad,True,False,False,45.0,,4.0,3.0,,,,,,,29.0,,,,12.0,12.0,12.0,,,,,,
+4254,Saddle Mountain Unified School District,Maricopa County,suppressed_grad,True,False,False,205.0,,24.0,16.0,,,50.0,39.0,22.0,,125.0,19.0,13.0,,,,,,,,,20.0,9.0
+4369,Peach Springs Unified District,Mohave County,suppressed_both_tests,True,False,False,,72.2,,,,,,,,,,,,72.2,,,,,,,,,
+4374,Littlefield Unified District,Mohave County,suppressed_grad,True,False,False,26.0,,15.0,20.0,,,,75.0,50.0,,14.0,,14.0,,,,,,,,,,36.0
+4388,Joseph City Unified District,Navajo County,suppressed_grad,True,False,False,33.0,,55.0,14.0,,,19.0,62.0,33.0,,,60.0,,,,20.0,,,,,,2.0,
+4390,Pinon Unified District,Navajo County,suppressed_grad,True,False,False,89.0,,7.0,8.0,,,,,,,,,,,,6.0,7.0,,,,,,
+4392,Heber-Overgaard Unified District,Navajo County,suppressed_grad,True,False,False,40.0,,43.0,30.0,,,32.0,41.0,25.0,,,50.0,50.0,,,,,,,,,-9.0,-25.0
+4408,Tanque Verde Unified District,Pima County,suppressed_grad,True,False,False,163.0,,79.0,60.0,,,118.0,83.0,61.0,,35.0,66.0,48.0,,,,,,,,,17.0,13.0
+4409,Ajo Unified District,Pima County,suppressed_grad,True,False,False,35.0,,12.0,14.0,,,,,,,25.0,16.0,19.0,,,,,,,,,,
+4438,Ray Unified District,Pinal County,suppressed_grad,True,False,False,30.0,,24.0,8.0,,,11.0,31.0,15.0,,16.0,16.0,,,,,,,,,,15.0,
+4439,Mammoth-San Manuel Unified District,Pinal County,suppressed_grad,True,False,False,40.0,,12.0,8.0,,,,25.0,24.0,,29.0,,,,,,,,,,,,
+4440,Superior Unified School District,Pinal County,suppressed_grad,True,False,False,22.0,,4.0,,,,,14.0,,,16.0,,,,,,,,,,,,
+4462,Patagonia Union High School District,Santa Cruz County,suppressed_grad,True,False,False,17.0,,,,,,,,,,,,,,,,,,,,,,
+4471,Ash Fork Joint Unified District,Yavapai County,suppressed_grad,True,False,False,34.0,,65.0,29.0,,,20.0,86.0,57.0,,,60.0,18.0,,,,,,,,,26.0,39.0
+4472,Seligman Unified District,Yavapai County,suppressed_grad,True,False,False,19.0,,31.0,31.0,,,,50.0,50.0,,,,,,,,,,,,,,
+4473,Mayer Unified School District,Yavapai County,suppressed_grad,True,False,False,27.0,,14.0,13.0,,,19.0,19.0,19.0,,,,,,,,,,,,,,
+4487,Cottonwood-Oak Creek Elementary District,Yavapai County,suppressed_grad,True,False,False,11.0,,36.0,9.0,,,11.0,33.0,17.0,,,33.0,,,,,,,,,,0.0,
+4515,Bicentennial Union High School District,La Paz County,suppressed_grad,True,False,False,26.0,,,,,,,,,,20.0,,,,,,,,,,,,

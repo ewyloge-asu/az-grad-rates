@@ -22,7 +22,7 @@
   --d10: #944a8c;
 
   --font-display: "Fraunces", Georgia, serif;
-  --font-body: "Space Grotesk", -apple-system, system-ui, sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
   /* Mono font is no longer used — all utility labels and tables use the body sans */
 
   --max-w: 1100px;

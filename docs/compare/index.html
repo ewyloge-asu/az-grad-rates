@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arizona schools: graduation rate vs. test scores</title>
+  <meta name="description" content="Compare each Arizona district's 4-year graduation rate against its Grade 11 ELA and Math passing rates, 2022–2025.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,400..700,0..100&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>Diplomas vs. demonstrated skills</h1>
+      <p class="deck">For each Arizona school district, compare the 4-year high school graduation rate against the share of 11th graders passing the state's English and Math assessments. Statewide averages shown as dashed reference lines.</p>
+      <p class="nav-link"><a href="../">← Back to district graduation comparison tool</a></p>
+    </div>
+  </header>
+
+  <main class="tool">
+    <section class="controls">
+      <div class="control-group">
+        <label for="district-search" class="control-label">Pick a district</label>
+        <div class="search-wrap">
+          <input
+            type="text"
+            id="district-search"
+            placeholder="Start typing a district name…"
+            autocomplete="off"
+            spellcheck="false"
+          >
+          <ul id="search-results" class="search-results" hidden></ul>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <div class="control-label">Now showing</div>
+        <div id="selected-info" class="selected-info">
+          <p class="selected-empty">No district selected — search above to compare a district to the statewide average.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="legend-section">
+      <div class="legend-grid">
+        <div class="legend-row">
+          <div class="legend-label">Graduation rate</div>
+          <div class="legend-line legend-line-solid" style="--c:#1f4788"></div>
+          <span class="legend-text">District</span>
+          <div class="legend-line legend-line-dotted" style="--c:#1f4788"></div>
+          <span class="legend-text">Statewide</span>
+        </div>
+        <div class="legend-row">
+          <div class="legend-label">ELA Grade 11 passing</div>
+          <div class="legend-line legend-line-solid" style="--c:#c47e15"></div>
+          <span class="legend-text">District</span>
+          <div class="legend-line legend-line-dotted" style="--c:#c47e15"></div>
+          <span class="legend-text">Statewide</span>
+        </div>
+        <div class="legend-row">
+          <div class="legend-label">Math Grade 11 passing</div>
+          <div class="legend-line legend-line-solid" style="--c:#a32d2d"></div>
+          <span class="legend-text">District</span>
+          <div class="legend-line legend-line-dotted" style="--c:#a32d2d"></div>
+          <span class="legend-text">Statewide</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="chart-section">
+      <div class="chart-wrap">
+        <canvas id="chart" aria-label="Line chart of graduation and test scores over time"></canvas>
+      </div>
+      <p class="chart-note">Suppressed values (small populations) appear as gaps. Source: Arizona Department of Education, 4-Year Cohort Graduation Rate data and AASA Grade 11 assessment results.</p>
+    </section>
+
+    <section class="table-section">
+      <div class="table-header">
+        <h2>Data table</h2>
+        <button id="download-csv" class="download-btn" type="button">Download CSV</button>
+      </div>
+      <div class="table-wrap">
+        <table id="data-table">
+          <!-- Populated by JS -->
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>Data from the <a href="https://www.azed.gov/accountability-research/data/">Arizona Department of Education Accountability Research office</a>. Graduation rate is the percentage of students in a four-year cohort who earned a high school diploma by August 31 of their fourth year. ELA and Math passing rates reflect the share of Grade 11 students scoring at or above the proficient level on the AASA assessment. Tool covers 113 traditional Arizona school districts. Methodology and source files available in the <a href="https://github.com/ewyloge-asu/az-grad-rates">project repository</a>.</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

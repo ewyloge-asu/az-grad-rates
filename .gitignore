@@ -207,3 +207,13 @@ marimo/_lsp/
 __marimo__/
 .DS_Store
 **/.DS_Store
+
+# Big test score files (regeneratable from notebooks)
+data/processed/test_scores_schools.csv
+
+# Raw ADE Excel files (originals stay local; notebooks regenerate from them)
+data/raw/*.xlsx
+data/raw/*.xls
+
+# Keep PDFs and CSVs in raw, like NCES classifications and crosswalks
+!data/raw/*.pdf
